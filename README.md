@@ -79,3 +79,13 @@ This project applies stereo vision techniques to reconstruct a 3D scene from mul
 
 - `Sparse3DReconstruction.py`: Python script for 3D scene reconstruction.
 
+---
+
+## Prerequisites
+
+-Python 3.8 or higher
+-Required Python libraries:
+  -OpenCV
+  -Numpy
+  -Matplotlib
+
