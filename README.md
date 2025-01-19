@@ -51,11 +51,11 @@ This project uses the Harris Corner Detection method to find key points and stit
 
 ### Overview
 
-This project explores image segmentation techniques, including K-means clustering and graph-based methods.
+This project explores image segmentation techniques using K-means clustering and Efficient Graph-Based Image Segmentation.
 
 ### Highlights
 
-- **Method**: K-means for color-based segmentation and graph cuts for efficient segmentation.
+- **Method**: K-means Clustering and Efficient Graph-Based Image Segmentation for image segmentation.
 - **Result**: Segmented images into distinct regions for analysis.
 
 ### Files
@@ -68,7 +68,7 @@ This project explores image segmentation techniques, including K-means clusterin
 
 ### Overview
 
-This project applies stereo vision techniques to reconstruct a 3D scene from multiple 2D images.
+This project applies stereo vision techniques to reconstruct a 3D scene from two 2D images.
 
 ### Highlights
 
