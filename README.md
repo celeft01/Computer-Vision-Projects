@@ -83,9 +83,9 @@ This project applies stereo vision techniques to reconstruct a 3D scene from mul
 
 ## Prerequisites
 
--Python 3.8 or higher
--Required Python libraries:
-  -OpenCV
-  -Numpy
-  -Matplotlib
-
+- Python 3.8 or higher
+- Required Python libraries:
+  - OpenCV
+  - Numpy
+  - Matplotlib
+  
